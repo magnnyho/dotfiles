@@ -62,4 +62,3 @@ for file in $files; do
                                                                                                                                                                                                                         fi
                     }
 
-                    install_zsh
